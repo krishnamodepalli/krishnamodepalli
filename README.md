@@ -8,7 +8,7 @@
 - 👀 I’m terribly interested in Computer Science.
 - 🌱 I’m a passionate CS engineering student at [ANITS](https://anits.edu.in "Anil Neerukonda Institute of Technology and Sciences"), Vizag.
 - 💻 I have a website at [GitHub Pages](https://krishnamodepalli.github.io/mypage "Mypage")
-- 📫 Reach Me at mailmeatdevil@gmail.com
+- 📫 Reach Me at mailmeatdevil@gmail.com 
 
 <!---
 Jail-Breaker/Jail-Breaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
