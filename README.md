@@ -5,9 +5,9 @@
 
 
 - 👋 Hi, I’m @[krishnamodepalli](https://github.com/krishnamodepalli "krishnamodepalli").
-- 👀 I’m terribly interested in Computer Science.
-- 🌱 I’m a passionate CS engineering student at [ANITS](https://anits.edu.in "Anil Neerukonda Institute of Technology and Sciences"), Vizag.
-- 💻 I have a small website [here](https://krishnamodepalli.github.io/mypage "Mypage").
+- 👀 I’m a passionate CS engineering student at [ANITS](https://anits.edu.in "Anil Neerukonda Institute of Technology and Sciences"), Vizag.
+<!-- - 🌱 I’m terribly interested in Computer Science. -->
+- 💻 I have a small website [here](https://krishnamodepalli.w3spaces.com "Mypage").
 - 📫 Reach Me at mailmeatdevil@gmail.com .
 
 <!---
