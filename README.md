@@ -1,15 +1,10 @@
+# KRISHNA MODEPALLI
 
+***Hola Amigo's,*** 😜  
+I am @[krishnamodepalli](https://github.com/krishnamodepalli/). I am a B.Tech CS student of ANITS, Vizag, India.
 
-
-### Hola Amigos,
-
-
-- 👋 Hi, I’m @[krishnamodepalli](https://github.com/krishnamodepalli "krishnamodepalli").
-- 👀 I’m a passionate CS engineering student at [ANITS](https://anits.edu.in "Anil Neerukonda Institute of Technology and Sciences"), Vizag.
-<!-- - 🌱 I’m terribly interested in Computer Science. -->
-- 💻 I have a small website [here](https://krishnamodepalli.w3spaces.com "Mypage").
-- 📫 Reach Me at mailmeatdevil@gmail.com .
-
+I may be an amateur in coding or whatever field this is, But I strongly feel that I can do anything, Just because I'm curious in this thing.  
+I'm just a beginner here, But I'm sure someday I'll make something **BIG**.
 <!---
 Jail-Breaker/Jail-Breaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
