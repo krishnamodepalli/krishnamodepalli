@@ -51,8 +51,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnamodepalli&theme=dark)
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=krishnamodepalli&show_icons=true&theme=tokyonight&locale=en&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=krishnamodepalli&show_icons=true&theme=tokyonight&locale=en)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnamodepalli&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=krishnamodepalli&show_icons=true&theme=tokyonight&locale=en&layout=compact)
 
 </details>
